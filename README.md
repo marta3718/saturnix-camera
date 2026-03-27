@@ -32,7 +32,7 @@ No apps. No cloud. Just a camera.
 - Autofocus modes: AF-C (continuous with lock), AF-S (single shot), MF (manual)
 
 **Film Simulations**
-- **SATURNIX** — signature preset: golden light, anime-style rendering, indigo shadows, bloom
+- **SATURNIX** — signature preset: golden light, indigo shadows, bloom
 - **Gold 400** — warm, vintage, creamy tones
 - **Ektar 100** — hyper-saturated, razor sharp, deep colors
 - **Fuji 400** — cool greens, balanced tones
@@ -69,9 +69,9 @@ No apps. No cloud. Just a camera.
 | Display | Waveshare 2" IPS LCD (240×320, SPI) |
 | Audio | Passive buzzer (MH-FMD) on GPIO |
 | Storage | microSD (32GB+) |
-| Power | USB-C / PiSugar2 battery (optional) |
+| Power | USB-C / ~~PiSugar2 battery~~ UPS HAT Waveshare (optional) |
 
-**Buttons:** 5× mechanical switches — Left, Right, Select, Capture, Focus
+**Buttons:** 5× mechanical low profile kailh switches — Left, Right, Select, Capture, Focus
 
 ### 3D Printed Case
 
@@ -185,8 +185,8 @@ Saturnix film **(in development)**
 - [x] Buzzer audio feedback
 - [x] Gallery with DNG support
 - [ ] **Camera body and design improvements** < **project at this stage**
-- [ ] Battery indicator (PiSugar2)
-- [ ] Status LED
+- [ ] Battery indicator (~~PiSugar2~~)
+- [ ] ~~Status LED~~
 - [ ] Firmware update via USB
 - [ ] Firmware cleanup
 - [ ] Pre-built SD card image

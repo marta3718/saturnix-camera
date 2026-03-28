@@ -39,7 +39,7 @@ It’s an exploration of:
 - local-first workflows (no cloud, no distractions)  
 - custom imaging pipelines you can fully understand and modify  
 
-It’s also about the experience — how a camera feels in your hands, how it responds, and how it gets out of the way so you can just shoot.
+It's also about experience—how the camera feels in your hands, how it responds, and how it stays out of the way, allowing you to simply shoot.
 
 **If other people find it useful or interesting — that’s a bonus.**
 

@@ -228,4 +228,3 @@ SATURNIX is a passion project built in spare time. If you find it interesting, c
 
 **Created by Yutani140x**
 
-*SATURNIX — a camera that feels like film.*

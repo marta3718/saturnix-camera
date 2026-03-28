@@ -33,10 +33,10 @@ No apps. No cloud. Just a camera.
 
 **Film Simulations**
 - **SATURNIX** — signature preset: golden light, indigo shadows, bloom
-- **Gold 400** — warm, vintage, creamy tones
-- **Ektar 100** — hyper-saturated, razor sharp, deep colors
-- **Fuji 400** — cool greens, balanced tones
-- **TriX 400** — classic black & white, deep blacks, rich grain
+- **S-Gold** — warm, vintage, creamy tones
+- **S-Vivid** — hyper-saturated, razor sharp, deep colors
+- **S-Natural** — cool greens, balanced tones
+- **S-MonoX** — classic black & white, deep blacks, rich grain
 - **VHS** — lo-fi tape look: scanlines, chromatic aberration, noise
 
 **Interface**
@@ -127,19 +127,19 @@ No filter
 </p>
 
 
-Gold
+S-Gold
 <p align="center">
   <img src="docs/gold.jpg" width="400">
 </p>
 
 
-Fuji
+S-Natural
 <p align="center">
   <img src="docs/fuji.jpg" width="400">
 </p>
 
 
-TriX
+S-MonoX
 <p align="center">
   <img src="docs/TriX.jpg" width="400">
 </p>
@@ -184,9 +184,8 @@ Saturnix film **(in development)**
 - [x] Persistent settings
 - [x] Buzzer audio feedback
 - [x] Gallery with DNG support
-- [ ] **Camera body and design improvements** < **project at this stage**
-- [ ] Battery indicator (~~PiSugar2~~)
-- [ ] ~~Status LED~~
+- [x] Camera body and design improvements 
+- [ ] **Battery indicator (~~PiSugar2~~)** < **project at this stage**
 - [ ] Firmware update via USB
 - [ ] Firmware cleanup
 - [ ] Pre-built SD card image

@@ -42,7 +42,7 @@ The goal is not to compete with commercial cameras, but to explore:
 ## Getting Started
 The project is still in active development.
 
-- Firmware &  Hardware release coming soon
+- Firmware &  Hardware release coming soon (I hope to publish the project in full within the next two weeks)
 - Join Discord for dev updates and early access
   
 ---

@@ -39,6 +39,14 @@ The goal is not to compete with commercial cameras, but to explore:
 
 ---
 
+## Getting Started
+The project is still in active development.
+
+- Firmware &  Hardware release coming soon
+- Join Discord for dev updates and early access
+  
+---
+
 ## Features
 
 **Camera**
@@ -284,7 +292,8 @@ This project uses a **dual license** model:
 
 ## Support the Project
 
-SATURNIX is a passion project built in spare time. If you find it interesting, consider supporting its development:
+SATURNIX is built independently.
+If you want to support development and future releases:
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9S6AgTT6k6)
 

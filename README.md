@@ -147,6 +147,28 @@ The main limitation of the project is the processor: a 2W Pi Zero running at 1 G
 
 ---
 
+## Roadmap
+
+- [x] Live preview + full manual controls
+- [x] RAW+JPG capture with sequential naming
+- [x] Film simulation engine (6 presets)
+- [x] Live histogram + exposure indicator
+- [x] Composition grids
+- [x] WiFi photo transfer (hotspot + web gallery)
+- [x] Auto-hide UI
+- [x] Persistent settings
+- [x] Buzzer audio feedback
+- [x] Gallery with DNG support
+- [x] Camera body and design improvements 
+- [ ] **Battery indicator (~~PiSugar2~~)** < **project at this stage**
+- [ ] Firmware update via USB
+- [ ] Firmware cleanup
+- [ ] Pre-built SD card image
+- [ ] Open source release preparation
+- [ ] Release
+
+---
+
 ## Camera Photo
 
 <p align="center">
@@ -212,12 +234,6 @@ S-MonoX
   <img src="docs/TriX.jpg" width="400">
 </p>
 
-
-Saturnix film **(in development)**
-<p align="center">
-  <img src="docs/Saturnix.jpg" width="400">
-</p>
-
 ---
 
 ## Photo Samples — Straight Out of Camera (No Filters)
@@ -237,28 +253,6 @@ Saturnix film **(in development)**
 <p align="center">
   <img src="docs/s_04.jpg" width="400">
 </p>
-
----
-
-## Roadmap
-
-- [x] Live preview + full manual controls
-- [x] RAW+JPG capture with sequential naming
-- [x] Film simulation engine (6 presets)
-- [x] Live histogram + exposure indicator
-- [x] Composition grids
-- [x] WiFi photo transfer (hotspot + web gallery)
-- [x] Auto-hide UI
-- [x] Persistent settings
-- [x] Buzzer audio feedback
-- [x] Gallery with DNG support
-- [x] Camera body and design improvements 
-- [ ] **Battery indicator (~~PiSugar2~~)** < **project at this stage**
-- [ ] Firmware update via USB
-- [ ] Firmware cleanup
-- [ ] Pre-built SD card image
-- [ ] Open source release preparation
-- [ ] Release
 
 ---
 

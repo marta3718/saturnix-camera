@@ -47,13 +47,13 @@ The goal is not to compete with commercial cameras, but to explore:
 - Full manual controls: Shutter (30s–1/4000), ISO (100–3200), WB, EV
 - Autofocus modes: AF-C (continuous with lock), AF-S (single shot), MF (manual)
 
-**Film Simulations**
-- **Saturnix** — signature preset: golden light, indigo shadows, bloom
+**JPEG presets (film-inspired)**
+- **Saturnix** — custom preset (in develop)
 - **S-Gold** — warm, vintage, creamy tones
 - **S-Vivid** — higher saturation, stronger contrast, more aggressive sharpening
-- **S-Natural** — cool greens, balanced tones
-- **S-MonoX** — classic black & white, deep blacks, rich grain
-- **VHS** — lo-fi tape look: scanlines, chromatic aberration, noise
+- **S-Natural** — neutral colors with slight green shift
+- **S-MonoX** — black & white with added contrast and grain
+- **VHS** — lo-fi effect (scanlines, chromatic aberration, noise)
 
 **Interface**
 - 2" LCD live preview at 320×240
@@ -65,9 +65,9 @@ The goal is not to compete with commercial cameras, but to explore:
 - Persistent settings (survive reboot)
 
 **Connectivity**
-- Built-in WiFi hotspot for photo transfer
-- Retro terminal-style web gallery
-- No internet required — direct device-to-phone
+- Built-in WiFi hotspot for transferring photos
+- Simple web interface (terminal-style)
+- Works without internet (direct connection to phone)
 
 **Audio**
 - Passive buzzer feedback for all actions

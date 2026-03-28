@@ -218,23 +218,17 @@ Spent today working on film simulation profiles. Trying to get the color science
 Also renaming all the filters to avoid any trademark issues: S-Gold, S-Vivid, S-MonoX, S-Natural, and more to come.
 
 <p align="center">
-  <img src="docs/1_upd.jpg" width="400">
+  <img src="docs/1_upd.jpg" width="48%" />
+  <img src="docs/2_upd.jpg" width="48%" />
 </p>
 
 <p align="center">
-  <img src="docs/2_upd.jpg" width="400">
+  <img src="docs/3_upd.jpg" width="48%" />
+  <img src="docs/4_upd.jpg" width="48%" />
 </p>
 
 <p align="center">
-  <img src="docs/3_upd.jpg" width="400">
-</p>
-
-<p align="center">
-  <img src="docs/4_upd.jpg" width="400">
-</p>
-
-<p align="center">
-  <img src="docs/5_upd.jpg" width="400">
+  <img src="docs/5_upd.jpg" width="48%" />
 </p>
 
 ---

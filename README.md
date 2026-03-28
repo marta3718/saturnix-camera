@@ -19,7 +19,7 @@ Join the **Saturnix** community:
 
 SATURNIX is a DIY digital camera built on a Raspberry Pi Zero 2W with a 16MP autofocus sensor and a small LCD viewfinder.
 It shoots RAW+JPG and processes photos on-device using simple JPEG presets inspired by film stocks.
-Everything runs locally on the device. No cloud, no external apps.
+Image capture and processing run entirely on the Raspberry Pi. No external apps are required.
 
 ---
 

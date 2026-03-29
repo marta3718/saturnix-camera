@@ -53,6 +53,14 @@ and what a camera can feel like when it’s built for yourself, not for an audie
 
 ---
 
+## Getting Started
+The project is still in active development.
+
+- Firmware &  Hardware release coming soon (I hope to publish the project in full within the next two weeks)
+- Join Discord for dev updates and early access
+  
+---
+
 ## Early prototype (v0)
 
 ### This was one of the first working versions — about a year ago.
@@ -72,6 +80,8 @@ and what a camera can feel like when it’s built for yourself, not for an audie
 At this stage, the focus was purely on getting everything to work:
 sensor, controls, UI, and basic interaction.
 No design, no ergonomics - just raw functionality.
+  
+---
 
 ## Current state (v1)
 
@@ -82,28 +92,7 @@ No design, no ergonomics - just raw functionality.
 </p>
 
 From a raw functional prototype to a complete, usable camera system.
-
-- Custom enclosure and industrial design
-- Stable capture pipeline
-- Film simulation system
-- Refined UI and controls
-
 Designed with a retro-futuristic aesthetic inspired by 80s–90s electronics.
-
-- Soft geometry and minimal seams
-- Ventilation slots and functional detailing
-- Compact, self-contained form factor
-- Focus on tactile interaction
-  
----
-
-## Getting Started
-The project is still in active development.
-
-- Firmware &  Hardware release coming soon (I hope to publish the project in full within the next two weeks)
-- Join Discord for dev updates and early access
-  
----
 
 ## Features
 

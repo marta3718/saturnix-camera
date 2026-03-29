@@ -168,7 +168,7 @@ There's a fix planned: switching to a method that captures full-res without stop
 - Assembly is a bit complicated
 - Requires soldering — not beginner-friendly for now
 
-### Despite these limitations, the camera has been tested in real-world use (including multi-day outdoor trips) and works reliably for still photography.
+Despite these limitations, the camera has been tested in real-world use (including multi-day outdoor trips) and works reliably for still photography.
 
 ---
 

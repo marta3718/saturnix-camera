@@ -28,28 +28,19 @@ Image capture and processing run entirely on the Raspberry Pi. No external apps 
 
 ---
 
-## Why this exists
+## Why I built it
 
-It all started with a personal project a year ago.
+About a year ago I just wanted a camera that felt good to use — something simple, physical, and that I could tweak however I wanted. I didn't like how modern cameras are designed, and I couldn't find anything open-source that felt right. So I built my own.
 
-I just wanted a camera that I actually enjoy using — something simple, tactile, and fully under my control.
-Modern cameras felt either too complex, too polished, or built around everything except the experience of shooting.
+I spent a lot of time on how it feels to hold and use, not just on the code.
 
-I couldn’t find anything open or customizable that felt right, so I decided to build one myself.
+This isn't trying to replace a real camera. It's more of a personal experiment around:
 
-I care a lot about how a camera feels in your hands — the buttons, the UI, the overall experience.
-That's why a significant part of this project is dedicated to design and hardware, and not just code.
+- simple camera setups
+- keeping everything local (no cloud)
+- work on creating our own image processing system
 
-This isn’t meant to compete with commercial cameras.
-It’s more of an exploration of:
-
-- minimal camera systems
-- local-first workflows
-- custom image pipelines
-
-and what a camera can feel like when it’s built for yourself, not for an audience
-
-**If other people find it useful or interesting — that’s a bonus.**
+**This started as a personal project. After sharing it online and seeing the level of interest, I decided to make it publicly available as open source.**
 
 ---
 
@@ -77,22 +68,22 @@ The project is still in active development.
   <img src="docs/prototype_3.jpg" width="500">
 </p>
 
-At this stage, the focus was purely on getting everything to work:
-sensor, controls, UI, and basic interaction.
-No design, no ergonomics - just raw functionality.
+This started as a just-for-fun thing. Me and some friends were messing around with cameras and photography, and at some point I thought — why not try to build one from scratch?
+This early version was all about getting things to actually work — sensor, buttons, screen, basic controls. It looked rough, felt rough, and that was fine. It was never meant to be pretty. We just wanted to see if it could work at all.
+Turns out it could. So I kept going.
   
 ---
 
 ## Current state (v1)
 
-### This is what I ended up with after ~1 year of development.
+### A year later — this is where we ended up
 
 <p align="center">
   <img src="docs/1.jpg" width="500"/>
 </p>
 
-From a raw functional prototype to a complete, usable camera system.
-Designed with a retro-futuristic aesthetic inspired by 80s–90s electronics.
+From a messy pile of wires that barely worked to an actual, usable camera.
+The design takes a lot of cues from old 80s–90s electronics — that chunky, slightly industrial look that old gear used to have. I've always liked that aesthetic, so I leaned into it.
 
 ## Features
 

@@ -196,7 +196,7 @@ Expected result: ~1.5–2.5s per shot instead of ~8–14s (5–6× faster).)_
 
 ## UI Design & Architecture:
 
-As for the user interface, it's intentionally designed to evoke the aesthetics of an old terminal—simple geometry and symbolic graphics instead of modern interface elements. I like this aesthetic, and it also reduces CPU and memory consumption. Here's how it works, broadly speaking:
+The user interface is designed to look and feel like an old terminal. I like this aesthetic, and it's also much lighter on the processor and memory, making it easier to develop. Here's roughly how it all works:
 
 - Colors: Solid colors only, no gradients in UI elements. We use amber (255,191,0), white, and black as the primary palette.
 - Typography: TTF — we load the DejaVu Sans Bold 14px font using the ImageFont.truetype() method of the Pillow library. **Custom fonts with a reduced number of glyphs are also suitable and will save some memory.**

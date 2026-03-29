@@ -135,9 +135,12 @@ The design takes a lot of cues from old 80s–90s electronics — that chunky, s
 
 **Buttons:** 5× mechanical low profile kailh switches — Left, Right, Select, Capture, Focus
 
+---
+
 ### 3D Printed Case
 
 STL files for the camera case are ~~available~~ in the [`hardware/`](hardware/) directory.
+__The case is designed for resin printing (FDM version is being considered)__
 
 <p align="center">
   <img src="docs/Fusion_1.jpg">

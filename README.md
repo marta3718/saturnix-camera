@@ -9,6 +9,10 @@
 > ## 🚧 **Firmware release coming soon.** Star this repo to get notified.
 > ## ⚠️Project is under active development, structure and features may change
 
+<p align="center">
+  <img src="docs/1.jpg" width="500">
+</p>
+
 ---
 ## Join our Discord community to stay up to date with development updates and news:
 
@@ -69,6 +73,28 @@ At this stage, the focus was purely on getting everything to work:
 sensor, controls, UI, and basic interaction.
 No design, no ergonomics - just raw functionality.
 
+## Current state (v1)
+
+### This is what I ended up with after ~1 year of development.
+
+<p align="center">
+  <img src="docs/1.jpg" width="500"/>
+</p>
+
+From a raw functional prototype to a complete, usable camera system.
+
+- Custom enclosure and industrial design
+- Stable capture pipeline
+- Film simulation system
+- Refined UI and controls
+
+Designed with a retro-futuristic aesthetic inspired by 80s–90s electronics.
+
+- Soft geometry and minimal seams
+- Ventilation slots and functional detailing
+- Compact, self-contained form factor
+- Focus on tactile interaction
+  
 ---
 
 ## Getting Started

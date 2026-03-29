@@ -6,7 +6,7 @@
   <img src="docs/1.jpg" width="400">
 </p>
 
-> 🚧 **Firmware release coming soon.** Star this repo to get notified.
+> ## 🚧 **Firmware release coming soon.** Star this repo to get notified.
 > ## ⚠️Project is under active development, structure and features may change
 
 ---

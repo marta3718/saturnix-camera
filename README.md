@@ -178,7 +178,8 @@ The interface is designed to look like an old terminal. I like that look, and it
 - Colors: Solid only — amber (#FFBF00), white, and black
 - Font: DejaVu Sans Bold 14px via Pillow
 - Animation: Minimal — blinking AF indicator, a capture animation, a progress bar
-The main constraint is the processor — a 1 GHz Pi Zero. UI rendering has to stay under ~15ms per frame to keep the preview smooth. Right now I'm focused on performance rather than adding features.
+
+__The main constraint is the processor — a 1 GHz Pi Zero. UI rendering has to stay under ~15ms per frame to keep the preview smooth. Right now I'm focused on performance rather than adding features.__
 
 ---
 

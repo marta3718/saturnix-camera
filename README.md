@@ -3,7 +3,7 @@
 ### Open-source digital camera with film simulation
 
 <p align="center">
-  <img src="docs/saturnix_logo_02.png">
+  <img src="docs/saturnix_logo_02.png" width="500">
 </p>
 
 > ## 🚧 **Firmware release coming soon.** Star this repo to get notified.

